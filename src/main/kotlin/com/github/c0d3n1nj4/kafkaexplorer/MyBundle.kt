@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.c0d3n1nj4.kafkaexplorer
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

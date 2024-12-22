@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.c0d3n1nj4.kafkaexplorer.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
